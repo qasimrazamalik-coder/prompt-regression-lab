@@ -1,0 +1,18 @@
+{
+  "cases": [
+    {
+      "id": "brief",
+      "output": "Summary\nRevenue increased.",
+      "required_terms": [
+        "Revenue"
+      ],
+      "forbidden_terms": [
+        "guaranteed"
+      ],
+      "max_words": 20,
+      "required_sections": [
+        "Summary"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Regression Lab"
+  short_description: "Prompt edits silently break output contracts because teams compare examples by eye."
+  default_prompt: "Use @prompt-regression-lab to analyze the supplied artifact and return a validated result."
